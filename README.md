@@ -6,5 +6,5 @@ I'm a web developer and learner with a focus on building clean, functional websi
 - 🌱 I’m currently learning about: Front End Development Libraries on Freecodecamp. 
 - 👯 I’m looking to collaborate on: beginner-friendly projects with real-world value.
 - 💬 Ask me about: front-end basics, getting started in web dev, or video editing workflows.
-- 📫 Reach out on: [LinkedIn](https://linkedin.com/in/nahom-ayalineh) or [Email](nahomayu31@gmail.com)
+- 📫 Feel free to reach out: [LinkedIn](https://linkedin.com/in/nahom-ayalineh) or [Email](nahomayu31@gmail.com)
  
